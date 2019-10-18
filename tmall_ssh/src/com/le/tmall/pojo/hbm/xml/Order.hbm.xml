@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.le.tmall.pojo.Order" table="order_">
+        <!--建立类属性哪一个是主键  还要跟数据库当中主键进行对象-->
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+        <!--建立类中的普通属性与数据库当中字段进行关联-->
+        <property name="orderCode" column="orderCode"/>
+        <property name="address" column="address"/>
+        <property name="post" column="post"/>
+        <property name="receiver" column="receiver"/>
+        <property name="mobile" column="mobile"/>
+        <property name="userMessage" column="userMessage"/>
+        <property name="createDate" column="createDate"/>
+        <property name="payDate" column="payDate"/>
+        <property name="deliveryDate" column="deliveryDate"/>
+        <property name="confirmDate" column="confirmDate"/>
+        <property name="status" column="status"/>
+        <many-to-one name="user" class="com.le.tmall.pojo.User" column="uid"/>
+
+        <set name="orderItems" cascade="save-update" inverse="false" lazy="false"><!--set属性名称-->
+            <key column="oid"></key><!--外键-->
+            <one-to-many class="com.le.tmall.pojo.OrderItem"></one-to-many>
+        </set>
+    </class>
+</hibernate-mapping>
+

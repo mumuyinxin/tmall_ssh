@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tmall_ssh:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fb3e703-5bd1-42a6-9faf-009a2f69b568" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../tmall\exportToHTML" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-529515915">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="74" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.176" value="1" />
+          <entry key="project.open.time.180" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.223" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.237" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.40" value="4" />
+          <entry key="project.open.time.41" value="4" />
+          <entry key="project.open.time.42" value="3" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="3" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="2" />
+          <entry key="project.open.time.48" value="3" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="2" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.70" value="2" />
+          <entry key="project.open.time.72" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="77" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CategoryAction" value="2" />
+          <entry key="SpringLocalModels/module=tmall" value="1" />
+          <entry key="class" value="34" />
+          <entry key="css" value="14" />
+          <entry key="gif" value="2" />
+          <entry key="ico" value="3" />
+          <entry key="java" value="1438" />
+          <entry key="jpg" value="45" />
+          <entry key="js" value="4" />
+          <entry key="jsp" value="818" />
+          <entry key="map" value="1" />
+          <entry key="name" value="1" />
+          <entry key="png" value="9" />
+          <entry key="properties" value="6" />
+          <entry key="sql" value="1" />
+          <entry key="svg" value="2" />
+          <entry key="tld" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="390" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="34" />
+          <entry key="CSS" value="14" />
+          <entry key="Image" value="59" />
+          <entry key="JAVA" value="1438" />
+          <entry key="JSP" value="818" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="6" />
+          <entry key="SVG" value="2" />
+          <entry key="Scratch" value="1" />
+          <entry key="SourceMap" value="1" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="391" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="11" />
+          <entry key="dummy" value="7" />
+          <entry key="java" value="22384" />
+          <entry key="jsp" value="4460" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="6" />
+          <entry key="xml" value="1643" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="11" />
+          <entry key="JAVA" value="22384" />
+          <entry key="JSP" value="4460" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="1643" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-139852176">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ico" value="1" />
+          <entry key="java" value="2" />
+          <entry key="jsp" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="JSP" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="24" />
+          <entry key="jsp" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="24" />
+          <entry key="JSP" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tmall" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>baseService</find>
+      <find>parent=&quot;baseService&quot;</find>
+      <find>Class entityClazz</find>
+      <find>clazz</find>
+      <find>backgroundLoginSuccess</find>
+      <find>object</find>
+      <find>T</find>
+      <find>Object</find>
+      <find>edu.fzu.User</find>
+      <find>edu.fzu</find>
+      <find>baseDao</find>
+      <find>ServiceImpl</find>
+      <find>@Data</find>
+      <find>public void setBaseDao\(BaseDao baseDao\) \{\n        super\.setBaseDao\(baseDao\)\;\n    \}</find>
+      <find>categoryList</find>
+      <find>@Autowired</find>
+      <find>actionContext.getSession()</find>
+      <find>request</find>
+      <find>actionContext</find>
+      <find>.getHibernateTemplate()</find>
+      <find>set</find>
+      <find>setHib</find>
+      <find>(User)</find>
+      <find>(ProductImage)</find>
+      <find>(OrderItem)</find>
+      <find>(Category)</find>
+      <find>session</find>
+      <find>@Service</find>
+      <find>div.simpleLogo</find>
+      <find>tmall</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>listUser</replace>
+      <replace>listProduct</replace>
+      <replace>Order</replace>
+      <replace>review</replace>
+      <replace>orderItem</replace>
+      <replace>user</replace>
+      <replace>order</replace>
+      <replace>clazz</replace>
+      <replace>true</replace>
+      <replace>==</replace>
+      <replace>new ArrayList&lt;&gt;(category.getProducts())</replace>
+      <replace>SetProductReviewCountAndSaleCount</replace>
+      <replace>SetProductFirstImageAndReviewCountAndSaleCount</replace>
+      <replace>propertyPage</replace>
+      <replace>productPage</replace>
+      <replace>orderPage</replace>
+      <replace>categoryPage</replace>
+      <replace>page</replace>
+      <replace>addProductImage_Product.action</replace>
+      <replace>productImage.product.id</replace>
+      <replace>none</replace>
+      <replace>product</replace>
+      <replace>all</replace>
+      <replace />
+      <replace>t</replace>
+      <replace>T</replace>
+      <replace>com.le.tmall.pojo</replace>
+      <replace>session</replace>
+      <replace>ActionContext.getContext().get(&quot;request&quot;)</replace>
+      <replace>actionContext.getSession()</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\xiunu\课件\大三\J2EE实践课\tmall\.idea</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Review.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Category.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Order.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/OrderItem.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Product.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/ProductImage.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/PropertyValue.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/User.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/ReviewService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/PropertyValueService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/PropertyService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/ProductImageService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/OrderItemService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/Category.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/util/Page.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/OrderItem.java" />
+        <option value="$PROJECT_DIR$/resource/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/dao/impl/BaseDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/OrderItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/ReviewServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/PropertyValueServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/PropertyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/ProductImageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/service/impl/BaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/resource/struts.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/action/ParameterAndPojo.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/action/OrderAction.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/action/FrontAction.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/action/CategoryAction.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/action/PropertyAction.java" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Property.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/action/ProductAction.java" />
+        <option value="$PROJECT_DIR$/web/include/header.jsp" />
+        <option value="$PROJECT_DIR$/resource/jdbc.properties" />
+        <option value="$PROJECT_DIR$/web/css/fore/style.css" />
+        <option value="$PROJECT_DIR$/web/include/admin/adminHeader.jsp" />
+        <option value="$PROJECT_DIR$/web/include/home/productsAsideCategorysRows.jsp" />
+        <option value="$PROJECT_DIR$/web/include/top.jsp" />
+        <option value="$PROJECT_DIR$/src/com/le/tmall/action/UserAction.java" />
+        <option value="$PROJECT_DIR$/web/include/registerPage.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="425" />
+    <option name="y" value="5" />
+    <option name="width" value="1475" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tmall_ssh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_ssh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope '产品'; set:产品; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="tmall" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tmall" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="tmall" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tmall" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tmall" type="58d84e3e:PackageViewProjectNode" />
+              <item name="tmall" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571284132435" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="edu.fzu.tmall.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.fzu.tmall.service.impl" />
+      <recent name="edu.fzu.tmall.service" />
+      <recent name="edu.fzu.tmall.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\web\test" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\new复习\dao" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\web\js\bootstrap\3.3.6" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\resource" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\src\edu\fzu\tmall\pojo\hbm\xml" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.fzu.tmall.service.impl" />
+      <recent name="edu.fzu.tmall.service" />
+      <recent name="edu.fzu.tmall.interceptor" />
+      <recent name="edu.fzu.tmall.dao" />
+      <recent name="edu.fzu.tmall.action" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\web\img" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\web\WEB-INF\lib" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\src" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\web" />
+      <recent name="E:\xiunu\课件\大三\J2EE实践课\tmall\web\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.37_tmall" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="508a1da4-cad3-40fb-bea7-b932e76d0483" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="tmall_ssh:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="未命名_tmall_6" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1745" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="1746" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tmall_ssh:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_tmall" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1745" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="1746" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb3e703-5bd1-42a6-9faf-009a2f69b568" name="默认" comment="" />
+      <created>1556375306727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556375306727</updated>
+      <workItem from="1556375315211" duration="1596000" />
+      <workItem from="1556499754649" duration="2739000" />
+      <workItem from="1556530601862" duration="13995000" />
+      <workItem from="1556546320140" duration="5232000" />
+      <workItem from="1556851202590" duration="4151000" />
+      <workItem from="1556880235315" duration="14006000" />
+      <workItem from="1556953323036" duration="4629000" />
+      <workItem from="1557109752699" duration="1799000" />
+      <workItem from="1557154375104" duration="1484000" />
+      <workItem from="1557227919344" duration="6359000" />
+      <workItem from="1557274986653" duration="16195000" />
+      <workItem from="1557302184327" duration="4904000" />
+      <workItem from="1557310181347" duration="12331000" />
+      <workItem from="1557323840316" duration="1013000" />
+      <workItem from="1557325853961" duration="4967000" />
+      <workItem from="1557545198667" duration="2842000" />
+      <workItem from="1557553967932" duration="13163000" />
+      <workItem from="1557569319943" duration="11937000" />
+      <workItem from="1557582571649" duration="4110000" />
+      <workItem from="1557620001399" duration="15456000" />
+      <workItem from="1558146604145" duration="8141000" />
+      <workItem from="1558157864520" duration="12738000" />
+      <workItem from="1558174735311" duration="9233000" />
+      <workItem from="1558756432520" duration="2661000" />
+      <workItem from="1558763408067" duration="11420000" />
+      <workItem from="1558780194255" duration="3247000" />
+      <workItem from="1558783590600" duration="7434000" />
+      <workItem from="1558792292690" duration="2107000" />
+      <workItem from="1558829488955" duration="29376000" />
+      <workItem from="1558867714034" duration="9292000" />
+      <workItem from="1558881650689" duration="2815000" />
+      <workItem from="1559358910707" duration="630000" />
+      <workItem from="1559365494122" duration="189000" />
+      <workItem from="1559991220099" duration="4051000" />
+      <workItem from="1560215656182" duration="9829000" />
+      <workItem from="1560263141086" duration="1942000" />
+      <workItem from="1560298792093" duration="30873000" />
+      <workItem from="1560349552811" duration="2128000" />
+      <workItem from="1560385128325" duration="964000" />
+      <workItem from="1560386579595" duration="13871000" />
+      <workItem from="1560419717457" duration="12794000" />
+      <workItem from="1560433843993" duration="4694000" />
+      <workItem from="1560473418084" duration="16882000" />
+      <workItem from="1560591989275" duration="13212000" />
+      <workItem from="1560612803820" duration="3507000" />
+      <workItem from="1560643814245" duration="11353000" />
+      <workItem from="1560658722745" duration="428000" />
+      <workItem from="1560659218660" duration="6363000" />
+      <workItem from="1560860984033" duration="3479000" />
+      <workItem from="1560866158757" duration="2312000" />
+      <workItem from="1560903197835" duration="406000" />
+      <workItem from="1560903838771" duration="1226000" />
+      <workItem from="1560909376694" duration="16110000" />
+      <workItem from="1561099549179" duration="4544000" />
+      <workItem from="1561117370318" duration="3461000" />
+      <workItem from="1561250457386" duration="618000" />
+      <workItem from="1561450340567" duration="250000" />
+      <workItem from="1561508048916" duration="8114000" />
+      <workItem from="1561560805618" duration="42000" />
+      <workItem from="1561595008092" duration="8208000" />
+      <workItem from="1561972547734" duration="2259000" />
+      <workItem from="1561977235657" duration="11645000" />
+      <workItem from="1562141581465" duration="18983000" />
+      <workItem from="1562224131688" duration="7897000" />
+      <workItem from="1564397846842" duration="20000" />
+      <workItem from="1565336004563" duration="635000" />
+      <workItem from="1565339593702" duration="765000" />
+      <workItem from="1565343880106" duration="4872000" />
+      <workItem from="1568010333445" duration="1197000" />
+      <workItem from="1568012840758" duration="715000" />
+      <workItem from="1568017917662" duration="464000" />
+      <workItem from="1568020363122" duration="15446000" />
+      <workItem from="1568040911980" duration="3494000" />
+      <workItem from="1568074205598" duration="8571000" />
+      <workItem from="1568088683372" duration="1196000" />
+      <workItem from="1568098749296" duration="620000" />
+      <workItem from="1571274830021" duration="5568000" />
+      <workItem from="1571280682565" duration="1805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="510004000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46220303" visible="true" weight="0.20509383" />
+      <window_info id="Structure" order="1" sideWeight="0.5989446" side_tool="true" weight="0.2191689" />
+      <window_info id="JRebel" order="2" sideWeight="0.537797" side_tool="true" weight="0.20241287" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5936795" side_tool="true" weight="0.23123324" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="设计器" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32503662" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5080527" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49731904" weight="0.32650074" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49262735" weight="0.34699854" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49946696" weight="0.3259177" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32925472" />
+      <window_info anchor="bottom" id="Problems" order="9" weight="0.3235725" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5073727" side_tool="true" weight="0.34699854" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.329429" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" weight="0.568082" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50268096" side_tool="true" weight="0.32796487" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.4989059" weight="0.25036603" />
+      <window_info anchor="bottom" id="调试" order="18" />
+      <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.18887262" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="调色板" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32942432" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.40347072" visible="true" weight="0.2272118" />
+      <window_info id="Structure" order="1" sideWeight="0.5965293" side_tool="true" weight="0.22453083" />
+      <window_info id="JRebel" order="2" sideWeight="0.5958005" side_tool="true" weight="0.23458445" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5936795" side_tool="true" weight="0.23123324" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="设计器" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.1317716" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49731904" weight="0.32650074" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" sideWeight="0.4936034" visible="true" weight="0.28111273" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49946696" weight="0.3259177" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32925472" />
+      <window_info anchor="bottom" id="Problems" order="9" weight="0.3235725" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5063966" side_tool="true" weight="0.43826473" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" weight="0.568082" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50268096" side_tool="true" weight="0.32796487" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.4989059" weight="0.26207906" />
+      <window_info anchor="bottom" id="调试" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="调色板" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32942432" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/tmall_war_exploded.xml" />
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/resource/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/action/CategoryAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/action/FrontAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/action/OrderAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/action/ParameterAndPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1070">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/action/PropertyAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/category/categoryPage.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/cart/alipayPage.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/category/adminPage.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/include/admin/adminFooter.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/admin/adminPage.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/product/productPage.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/product.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/listUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/listProperty.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/listProductImage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/listProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/editCategory.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Category.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="18" column="78" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/editProductValue.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Product.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/productSingle_middle/19.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/productSingle_middle/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/pojo/hbm/xml/Property.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" column="83" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/action/ProductAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/fore/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9702">
+          <caret line="441" column="16" selection-start-line="441" selection-start-column="16" selection-end-line="441" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/application-hibernate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/fore.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/admin/adminHeader.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/back.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/home/productItem.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/home/categoryMenu.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/home/categoryAndcarousel.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/home/carousel.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/home/homepageCategoryProducts.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/home/productsAsideCategorysRows.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/home/productsAsideCategorys.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/le/tmall/action/UserAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/include/registerPage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>tmall_ssh:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JRebel</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tmall_ssh</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>web-lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.le.tmall.pojo.OrderItem" table="orderitem">
+        <!--建立类属性哪一个是主键  还要跟数据库当中主键进行对象-->
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+        <!--建立类中的普通属性与数据库当中字段进行关联-->
+        <property name="number" column="number"/>
+
+        <many-to-one name="user" class="com.le.tmall.pojo.User" column="uid" lazy="false"/>
+        <many-to-one name="product" class="com.le.tmall.pojo.Product" cascade="save-update" column="pid" lazy="false"/>
+        <many-to-one name="order" class="com.le.tmall.pojo.Order" cascade="save-update" column="oid" lazy="false"/>
+    </class>
+</hibernate-mapping>
+

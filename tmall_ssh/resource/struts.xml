@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+		"-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+		"http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+	<constant name="struts.enable.DynamicMethodInvocation" value="false" />
+	<!-- <constant name="struts.devMode" value="true" /> -->
+	<!-- 配置文件修改了，不需要重启服务器 -->
+	<constant name="struts.configuration.xml.reload" value="true" />
+	<!-- jsp中不使用struts的样式 -->
+	<constant name="struts.ui.theme" value="simple" />
+
+
+	<package name="struts" namespace="/" extends="struts-default">
+		<interceptors>
+			<interceptor name="authorityInterceptor" class="com.le.tmall.interceptor.AuthInterceptor" />
+			<interceptor name="loginInterceptor" class="com.le.tmall.interceptor.LoginInterceptor" />
+			<!--<interceptor-stack name="auth-dafault">-->
+				<!--<interceptor-ref name="defaultStack" />-->
+				<!--<interceptor-ref name="authorityInterceptor" />-->
+			<!--</interceptor-stack>-->
+		</interceptors>
+		<!--<default-interceptor-ref name="auth-dafault" />-->
+		<global-results>
+			<result name="login">/login.jsp</result>
+			<!--<result name="error">/fail.jsp</result>-->
+		</global-results>
+		<!--<global-exception-mappings>-->
+			<!--<exception-mapping exception="java.lang.Exception" result="error" />-->
+		<!--</global-exception-mappings>-->
+
+		<action name="*_Front" class="frontAction" method="{1}">
+			<result name="frontLogin" type="dispatcher">/home.jsp</result>
+			<result name="findCategory" type="dispatcher">/category.jsp</result>
+			<result name="findProduct" type="dispatcher">/product.jsp</result>
+			<result name="findSearch" type="dispatcher">/searchResult.jsp</result>
+			<result name="buy" type="dispatcher">/buy.jsp</result>
+			<result name="pay" type="dispatcher">/alipay.jsp</result>
+			<result name="payed" type="dispatcher">/payed.jsp</result>
+			<result name="bought" type="dispatcher">/bought.jsp</result>
+			<result name="ConfirmPay" type="dispatcher">/confirmPay.jsp</result>
+			<result name="orderConfirmed" type="dispatcher">/orderConfirmed.jsp</result>
+			<result name="review" type="dispatcher">/review.jsp</result>
+			<result name="cart" type="dispatcher">/cart.jsp</result>
+			<result name="success" type="dispatcher">/success.jsp</result>
+			<result name="fail" type="dispatcher">/fail.jsp</result>
+			<allowed-methods>
+				frontLogin,frontCategory,frontProduct,
+				frontSearch,frontBuy,frontPay,frontPayed,frontBought,
+				frontConfirmPay,frontOrderConfirmed,frontOrderDelivery,
+				frontReview,frontDoReview,frontCart,frontOrderItemDelete,frontCheckLogin
+			</allowed-methods>
+			<!--<interceptor-ref name="loginInterceptor">-->
+				<!--<param name="excludeMethods">frontLogin</param>-->
+			<!--</interceptor-ref>-->
+			<!--<interceptor-ref name="defaultStack" />-->
+		</action>
+
+		<action name="*_User" class="userAction" method="{1}">
+			<!--<interceptor-ref name="loginInterceptor" >-->
+				<!--<param name="excludeMethods">login</param>-->
+			<!--</interceptor-ref>-->
+			<!-- <result type="chain" name="success">listUser.jsp</result> -->
+			<result name="loginSuccess" type="redirectAction">frontLogin_Front.action</result>
+			<result name="backgroundLoginSuccess" type="dispatcher">/loginSuccess.jsp</result>
+			<result name="logout" type="dispatcher">/login.jsp</result>
+			<result name="loginERROR" type="dispatcher">/login.jsp</result>
+			<result name="registerSuccess" type="dispatcher">/registerSuccess.jsp</result>
+			<result name="registerERROR" type="dispatcher">/register.jsp</result>
+			<result name="listUser" type="dispatcher">/admin/listUser.jsp</result>
+			<result name="reset" type="redirectAction">listUser_User.action</result>
+			<result name="success" type="dispatcher">/success.jsp</result>
+			<result name="fail" type="dispatcher">/fail.jsp</result>
+			<allowed-methods>login,register,listUser,reset,logout</allowed-methods>
+		</action>
+
+		<action name="*_Product" class="productAction" method="{1}">
+			<result name="listProduct" type="dispatcher">/admin/listProduct.jsp</result>
+			<result name="editProduct" type="dispatcher">/admin/editProduct.jsp</result>
+			<result name="editPropertyValue" type="dispatcher">/admin/editProductValue.jsp</result>
+			<result name="editProductValueSuccess" type="dispatcher">/success.jsp</result>
+			<result name="listProductImage" type="dispatcher">/admin/listProductImage.jsp</result>
+			<allowed-methods>
+				listProduct,add,delete,
+				editProductPage,editProduct,
+				editProductValuePage,editProductValue,
+				listProductImage,addProductImage,deleteProductImage
+			</allowed-methods>
+		</action>
+
+		<action name="*_Category" class="categoryAction" method="{1}">
+			<result name="listCategory" type="dispatcher">/admin/listCategory.jsp</result>
+			<result name="editCategory" type="dispatcher">/admin/editCategory.jsp</result>
+			<allowed-methods>listCategory,delete,editPage,edit,add</allowed-methods>
+		</action>
+
+		<action name="*_Order" class="orderAction" method="{1}">
+			<result name="listOrder" type="dispatcher">/admin/listOrder.jsp</result>
+			<result name="redirectBought" type="redirectAction">frontBought_Front.action</result>
+			<allowed-methods>listOrder,delete,editStatus,edit,add</allowed-methods>
+		</action>
+
+		<action name="*_Property" class="propertyAction" method="{1}">
+			<result name="listProperty" type="dispatcher">/admin/listProperty.jsp</result>
+			<result name="editProperty" type="dispatcher">/admin/editProperty.jsp</result>
+			<allowed-methods>listProperty,delete,editPage,edit,add</allowed-methods>
+		</action>
+
+		<!--<action name="*">   &lt;!&ndash; 用于处理链接jsp页面请求 &ndash;&gt;-->
+			<!--<result>/admin/{1}.jsp</result>-->
+		<!--</action>-->
+	</package>
+
+	<!-- Add packages here -->
+	<!--<package name="json" namespace="/ajax" extends="json-default">-->
+		<!--&lt;!&ndash; 对应请求地址 /ajax/updateFund.action  &ndash;&gt;-->
+		<!--<action name="resetPassword" class="UserAction" method="reset">-->
+			<!--<result type="json">-->
+				<!--<param name="root">result</param> &lt;!&ndash; 返回result属性 &ndash;&gt;-->
+			<!--</result>-->
+		<!--</action>-->
+	<!--</package>-->
+</struts>

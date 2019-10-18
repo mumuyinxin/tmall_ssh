@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+">
+
+    <!--导入hibernate相关配置-->
+    <import resource="application-hibernate.xml"/>
+
+    <context:annotation-config />
+    <context:component-scan base-package="com.le.tmall" />
+
+
+    <bean id="frontAction" class="com.le.tmall.action.FrontAction" scope="prototype">
+        <property name="categoryService" ref="categoryService"/>
+        <property name="productService" ref="productService"/>
+        <property name="reviewService" ref="reviewService"/>
+        <property name="userService" ref="userService"/>
+        <property name="productImageService" ref="productImageService"/>
+        <property name="orderService" ref="orderService"/>
+        <property name="orderItemService" ref="orderItemService"/>
+    </bean>
+
+    <!--userAction   scope="prototype"-->
+    <bean id="userAction" class="com.le.tmall.action.UserAction" scope="prototype">
+        <property name="userService" ref="userService"/>
+    </bean>
+    <!--service-->
+    <bean id="userService" class="com.le.tmall.service.impl.UserServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+    </bean>
+
+    <!-- productAction -->
+    <bean id="productAction" class="com.le.tmall.action.ProductAction" scope="prototype">
+        <property name="productService" ref="productService"/>
+        <property name="productImageService" ref="productImageService"/>
+        <property name="categoryService" ref="categoryService"/>
+        <property name="propertyService" ref="propertyService"/>
+        <property name="propertyValueService" ref="propertyValueService"/>
+    </bean>
+    <!--service-->
+    <bean id="productService" class="com.le.tmall.service.impl.ProductServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+        <property name="productImageService" ref="productImageService"/>
+        <property name="categoryService" ref="categoryService"/>
+    </bean>
+
+    <!-- categoryAction -->
+    <bean id="categoryAction" class="com.le.tmall.action.CategoryAction" scope="prototype">
+        <property name="categoryService" ref="categoryService"/>
+    </bean>
+    <!--service-->
+    <bean id="categoryService" class="com.le.tmall.service.impl.CategoryServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+    </bean>
+
+    <!-- orderAction -->
+    <bean id="orderAction" class="com.le.tmall.action.OrderAction" scope="prototype">
+        <property name="orderService" ref="orderService"/>
+    </bean>
+    <!--service-->
+    <bean id="orderService" class="com.le.tmall.service.impl.OrderServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+        <property name="orderItemService" ref="orderItemService"/>
+        <property name="productImageService" ref="productImageService"/>
+    </bean>
+
+    <!--service-->
+    <bean id="orderItemService" class="com.le.tmall.service.impl.OrderItemServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+    </bean>
+
+    <!-- propertyAction -->
+    <bean id="propertyAction" class="com.le.tmall.action.PropertyAction" scope="prototype">
+        <property name="propertyService" ref="propertyService"/>
+        <property name="categoryService" ref="categoryService"/>
+    </bean>
+    <!--service-->
+    <bean id="propertyService" class="com.le.tmall.service.impl.PropertyServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+        <property name="categoryService" ref="categoryService"/>
+    </bean>
+
+    <!--service-->
+    <bean id="propertyValueService" class="com.le.tmall.service.impl.PropertyValueServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+    </bean>
+
+    <!--service-->
+    <bean id="productImageService" class="com.le.tmall.service.impl.ProductImageServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+    </bean>
+
+    <!--service-->
+    <bean id="reviewService" class="com.le.tmall.service.impl.ReviewServiceImpl"  >
+        <property name="baseDao" ref="baseDao"/>
+    </bean>
+
+    <!--&lt;!&ndash;servicce&ndash;&gt;-->
+    <!--<bean id="baseService" class="com.le.tmall.service.impl.BaseServiceImpl">-->
+        <!--<property name="baseDao" ref="baseDao"/>-->
+    <!--</bean>-->
+    <!--dao-->
+    <bean id="baseDao" class="com.le.tmall.dao.impl.BaseDaoImpl">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+
+</beans>
